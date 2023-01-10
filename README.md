@@ -1,3 +1,3 @@
 ## CSES-Problem-Set
 
-# CSES Problem Set Solution Codes
+CSES Problem Set Solution Codes
